@@ -1,0 +1,11 @@
+{
+  "name": "hadith-ts-tabaqat-chronology",
+  "version": "1.0.0",
+  "description": "Narrator Chronological Overlap & Liqa' Feasibility Validator (مدقق المعاصرة واللقاء وتواريخ وفيات الرواة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
